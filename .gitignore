@@ -1,0 +1,9 @@
+api_key.txt
+*.key
+.env
+
+emails.txt
+*.csv
+
+.vscode/
+*.log
